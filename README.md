@@ -1,4 +1,3 @@
 # Tic-Tac-Toe
 
-An interactive Tic-Tac-Toe game with game logic
-logic for two players
+An interactive Tic-Tac-Toe game with game logic for two players
