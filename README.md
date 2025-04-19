@@ -1,4 +1,4 @@
 # Tic-Tac-Toe
 
-An interactive Tic-Tac-Toe game with game August 2024
+An interactive Tic-Tac-Toe game with game logic
 logic for two players
