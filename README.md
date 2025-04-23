@@ -14,4 +14,4 @@ An interactive Tic-Tac-Toe game with game logic for two players implemented in P
 ## Tech Stack
 
 - Python 3.11.2
-- customtkinter 5.2.2
+- Customtkinter 5.2.2
